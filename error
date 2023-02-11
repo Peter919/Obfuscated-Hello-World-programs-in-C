@@ -1,0 +1,24 @@
+#include <stdlib.h>
+
+int print_text(void)
+{
+        printf(("%s%s", (char *) NULL, &5["What??!"]["Hello World!"]));
+
+        exit(EXIT_SUCCESS);
+}
+
+int main(void)
+{
+        int array[3];
+        array[1] = 5;
+        array[5] = 0;
+
+        if (array[1] == 10);
+        {
+                array[5] = print_text;
+        }
+
+        array[1] /= array[5];
+
+        return EXIT_FAILURE;
+}
