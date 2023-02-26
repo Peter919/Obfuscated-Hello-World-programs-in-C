@@ -1,3 +1,5 @@
+// Unportable
+
 main(){char*c;putchar(
 ('main'/'putchar')[c =
 main]);putchar(putchar
